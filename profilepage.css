@@ -1,0 +1,27 @@
+body{
+  background-image:url("../image/background_img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.center{
+  font-style:oblique;
+}
+.center img{
+  align-items: 30%;
+  border-radius: 30px;
+  width: 10%;
+  opacity: .7;
+}
+.center h1{
+align-items: center;
+width: 100%;
+font-size: 3em;
+color: white;
+}
+.center p{
+width: 100%;
+text-align: justify;
+font-size: 2em;
+justify-content: left;
+color:#fff;
+}
